@@ -1,0 +1,18 @@
+#nav-bar {
+    position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+}
+
+main {
+  display: flex;
+}
+
+.item {
+  align-self: auto;
+}
+
+@media {
+
+}
